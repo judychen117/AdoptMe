@@ -29,6 +29,11 @@ const router = new Router({
       component: () => import('./../views/Contact.vue')
     },
     {
+      path: '/activity',
+      name: 'activity',
+      component: () => import('./../views/Activity.vue')
+    },
+    {
       path: '*',
       name: 'not-found',
       component: NotFound

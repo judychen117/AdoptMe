@@ -23,136 +23,94 @@
       </div>
     </section>
     <div class="container">
-      <div class="album-wrapper">
-        <div class="card">
-          <img src="./../assets/dog-panda1.jpg" alt="" class="card-img" />
-          <div class="card-text">
-            <h3 class="card-title">胖達</h3>
-            <p class="card-description">2 歲</p>
+      <router-link :to="{ name: 'dog-profile' }" class="nav-link">
+        <div class="album-wrapper">
+          <div class="card">
+            <img src="./../assets/dog-panda3.jpg" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">胖達</h3>
+              <p class="card-description">水水男孩</p>
+            </div>
+          </div>
+          <div class="card">
+            <img src="./../assets/dog-Q-main.png" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">阿Q</h3>
+              <p class="card-description">暖心女硬漢</p>
+            </div>
+          </div>
+          <div class="card">
+            <img src="./../assets/dog-mulan-main.png" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">花木蘭</h3>
+              <p class="card-description">狗界愛因斯坦</p>
+            </div>
+          </div>
+          <div class="card">
+            <img src="./../assets/dog-mow-main.png" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">毛毛</h3>
+              <p class="card-description">激情老奶奶</p>
+            </div>
+          </div>
+          <div class="card">
+            <img src="./../assets/dog-tiger.png" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">虎哥</h3>
+              <p class="card-description">6 歲</p>
+            </div>
+          </div>
+          <div class="card">
+            <img src="./../assets/dog-dodo2.png" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">多多</h3>
+              <p class="card-description">5 歲</p>
+            </div>
+          </div>
+          <div class="card">
+            <img src="./../assets/dog-mountain1.png" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">Mountain</h3>
+              <p class="card-description">2 歲</p>
+            </div>
+          </div>
+          <div class="card">
+            <img src="./../assets/dog-coco1.png" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">可可</h3>
+              <p class="card-description">2 歲</p>
+            </div>
+          </div>
+          <div class="card">
+            <img src="./../assets/dog-土豆-main.png" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">土豆</h3>
+              <p class="card-description">3 歲</p>
+            </div>
+          </div>
+          <div class="card">
+            <img src="./../assets/dog-cow-main.png" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">牛牛</h3>
+              <p class="card-description">2 歲</p>
+            </div>
+          </div>
+          <div class="card">
+            <img src="./../assets/dog-黑輪-main.png" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">黑輪</h3>
+              <p class="card-description">3 歲</p>
+            </div>
+          </div>
+          <div class="card">
+            <img src="./../assets/dog-巧克力-main.png" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">巧克力</h3>
+              <p class="card-description">2 歲</p>
+            </div>
           </div>
         </div>
-        <div class="card">
-          <img
-            src="https://images.unsplash.com/photo-1554224311-beee415c201f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80"
-            alt=""
-            class="card-img"
-          />
-          <div class="card-text">
-            <h3 class="card-title">小黑</h3>
-            <p class="card-description">2 歲</p>
-          </div>
-        </div>
-        <div class="card">
-          <img
-            src="https://images.pexels.com/photos/2737393/pexels-photo-2737393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-            alt=""
-            class="card-img"
-          />
-          <div class="card-text">
-            <h3 class="card-title">花花</h3>
-            <p class="card-description">4 歲</p>
-          </div>
-        </div>
-        <div class="card">
-          <img
-            src="https://images.pexels.com/photos/551628/pexels-photo-551628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-            alt=""
-            class="card-img"
-          />
-          <div class="card-text">
-            <h3 class="card-title">皮克</h3>
-            <p class="card-description">3 歲</p>
-          </div>
-        </div>
-        <div class="card">
-          <img
-            src="https://images.pexels.com/photos/1490908/pexels-photo-1490908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-            alt=""
-            class="card-img"
-          />
-          <div class="card-text">
-            <h3 class="card-title">哈金</h3>
-            <p class="card-description">6 歲</p>
-          </div>
-        </div>
-        <div class="card">
-          <img
-            src="https://images.pexels.com/photos/164186/pexels-photo-164186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-            alt=""
-            class="card-img"
-          />
-          <div class="card-text">
-            <h3 class="card-title">大小姐</h3>
-            <p class="card-description">5 歲</p>
-          </div>
-        </div>
-        <div class="card">
-          <img
-            src="https://images.pexels.com/photos/545063/pexels-photo-545063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-            alt=""
-            class="card-img"
-          />
-          <div class="card-text">
-            <h3 class="card-title">公主</h3>
-            <p class="card-description">2 歲</p>
-          </div>
-        </div>
-        <div class="card">
-          <img
-            src="https://images.pexels.com/photos/1564506/pexels-photo-1564506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-            alt=""
-            class="card-img"
-          />
-          <div class="card-text">
-            <h3 class="card-title">獨角獸</h3>
-            <p class="card-description">2 歲</p>
-          </div>
-        </div>
-        <div class="card">
-          <img
-            src="https://images.unsplash.com/photo-1446231855385-1d4b0f025248?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
-            alt=""
-            class="card-img"
-          />
-          <div class="card-text">
-            <h3 class="card-title">阿獅</h3>
-            <p class="card-description">3 歲</p>
-          </div>
-        </div>
-        <div class="card">
-          <img
-            src="https://images.unsplash.com/photo-1455526050980-d3e7b9b789a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=625&q=80"
-            alt=""
-            class="card-img"
-          />
-          <div class="card-text">
-            <h3 class="card-title">辛巴</h3>
-            <p class="card-description">2 歲</p>
-          </div>
-        </div>
-        <div class="card">
-          <img
-            src="https://images.unsplash.com/photo-1446730853965-62433e868929?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
-            alt=""
-            class="card-img"
-          />
-          <div class="card-text">
-            <h3 class="card-title">豆皮</h3>
-            <p class="card-description">2 歲</p>
-          </div>
-        </div>
-        <div class="card">
-          <img
-            src="https://images.unsplash.com/photo-1513757271804-385fb022e70a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
-            alt=""
-            class="card-img"
-          />
-          <div class="card-text">
-            <h3 class="card-title">阿瓜</h3>
-            <p class="card-description">2 歲</p>
-          </div>
-        </div>
-      </div>
+      </router-link>
     </div>
     <div class="container">
       <div class="adoption-wrapper">

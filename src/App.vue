@@ -356,6 +356,12 @@ header {
   -moz-box-shadow: 2px 10px 12px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 2px 10px 12px 0px rgba(0, 0, 0, 0.1);
 }
+.adoption-image {
+  width: 100%;
+  height: 400px;
+  display: block;
+  object-fit: cover;
+}
 .adoption-info {
   display: grid;
   align-content: center;

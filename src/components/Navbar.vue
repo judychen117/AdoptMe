@@ -8,13 +8,25 @@
       <nav class="nav">
         <ul class="nav-list">
           <li class="nav-item">
-            <a class="nav-link" href="#">近期活動</a>
+            <router-link
+              :to="{ name: 'activity' }"
+              class="nav-link"
+              href="#adoption"
+              >近期活動</router-link
+            >
           </li>
           <li class="nav-item">
-            <router-link :to="{name:'dog-profile'}" class="nav-link">狗兒相片</router-link>
+            <router-link :to="{ name: 'dog-profile' }" class="nav-link"
+              >狗兒相片</router-link
+            >
           </li>
           <li class="nav-item">
-            <router-link :to="{name:'contact'}" class="nav-link" href="#adoption">領養資訊</router-link>
+            <router-link
+              :to="{ name: 'contact' }"
+              class="nav-link"
+              href="#adoption"
+              >領養資訊</router-link
+            >
           </li>
         </ul>
       </nav>
