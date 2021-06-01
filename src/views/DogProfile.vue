@@ -604,6 +604,9 @@
       <br />
       <br />
     </div>
+    <footer>
+      <p>中和毛星球 &copy; 2021</p>
+    </footer>
   </div>
 </template>
 

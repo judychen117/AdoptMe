@@ -31,9 +31,12 @@
       </table>
       <br />
       <div class="small-cap">
-        <p>志工申請或有意願捐增物資者請電話詢問或到活動現場與工作人員洽談</p>
+        <p>志工申請或有意願捐贈物資者請電話詢問</p>
       </div>
     </div>
+    <footer>
+      <p>中和毛星球 &copy; 2021</p>
+    </footer>
   </div>
 </template>
 
@@ -51,7 +54,7 @@ export default {
 
 <style scoped>
 .container {
-  height: 100vh;
+  height: 90vh;
 }
 .top-position {
   padding-top: 92px;

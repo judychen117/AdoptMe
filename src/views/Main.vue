@@ -137,7 +137,7 @@
       </div>
     </div>
     <footer>
-      <p>毛小孩星球 &copy; 2020</p>
+      <p>中和毛星球 &copy; 2021</p>
     </footer>
   </div>
 </template>

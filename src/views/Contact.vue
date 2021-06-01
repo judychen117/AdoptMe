@@ -11,6 +11,9 @@
         <p>PS.領養需年滿20歲，請攜帶身分證及硬式提籠</p>
       </div>
     </div>
+    <footer>
+      <p>中和毛星球 &copy; 2021</p>
+    </footer>
   </div>
 </template>
 
@@ -28,7 +31,7 @@ export default {
 
 <style scoped>
 .container {
-  height: 100vh;
+  height: 90vh;
 }
 .top-position {
   padding-top: 92px;
