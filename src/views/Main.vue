@@ -10,26 +10,30 @@
             <a href="#adoption" class="action">領養去</a>
           </div>
           <div class="sub-banner sub-banner-left background-image">
-            <h3 class="banner-title">捐款送玩偶</h3>
-            <p class="banner-description">NTD 100</p>
-            <a href="#" class="action">捐款</a>
+            <h3 class="banner-title">志工申請</h3>
+            <p class="banner-description">來跟狗狗玩</p>
+            <router-link :to="{ name: 'activity' }" class="action"
+              >申請</router-link
+            >
           </div>
           <div class="sub-banner sub-banner-right background-image">
-            <h3 class="banner-title">捐款送狗骨頭</h3>
-            <p class="banner-description">NTD 300</p>
-            <a href="#" class="action">捐款</a>
+            <h3 class="banner-title">捐款送物資</h3>
+            <p class="banner-description">一起關愛夠狗</p>
+            <router-link :to="{ name: 'activity' }" class="action"
+              >捐贈</router-link
+            >
           </div>
         </div>
       </div>
     </section>
-    <div class="container">
+    <div class="container" id="adoption">
       <router-link :to="{ name: 'dog-profile' }" class="nav-link">
         <div class="album-wrapper">
           <div class="card">
             <img src="./../assets/dog-panda3.jpg" alt="" class="card-img" />
             <div class="card-text">
               <h3 class="card-title">胖達</h3>
-              <p class="card-description">水水男孩</p>
+              <p class="card-description">不胖的水水男孩</p>
             </div>
           </div>
           <div class="card">
@@ -57,56 +61,60 @@
             <img src="./../assets/dog-tiger.png" alt="" class="card-img" />
             <div class="card-text">
               <h3 class="card-title">虎哥</h3>
-              <p class="card-description">6 歲</p>
+              <p class="card-description">玻璃心chill哥</p>
             </div>
           </div>
           <div class="card">
             <img src="./../assets/dog-dodo2.png" alt="" class="card-img" />
             <div class="card-text">
               <h3 class="card-title">多多</h3>
-              <p class="card-description">5 歲</p>
+              <p class="card-description">存在感100%狗狗</p>
             </div>
           </div>
           <div class="card">
             <img src="./../assets/dog-mountain1.png" alt="" class="card-img" />
             <div class="card-text">
               <h3 class="card-title">Mountain</h3>
-              <p class="card-description">2 歲</p>
+              <p class="card-description">挖洞怪獸</p>
             </div>
           </div>
           <div class="card">
             <img src="./../assets/dog-coco1.png" alt="" class="card-img" />
             <div class="card-text">
               <h3 class="card-title">可可</h3>
-              <p class="card-description">2 歲</p>
-            </div>
-          </div>
-          <div class="card">
-            <img src="./../assets/dog-土豆-main.png" alt="" class="card-img" />
-            <div class="card-text">
-              <h3 class="card-title">土豆</h3>
-              <p class="card-description">3 歲</p>
+              <p class="card-description">圓潤喜感王</p>
             </div>
           </div>
           <div class="card">
             <img src="./../assets/dog-cow-main.png" alt="" class="card-img" />
             <div class="card-text">
               <h3 class="card-title">牛牛</h3>
-              <p class="card-description">2 歲</p>
+              <p class="card-description">害羞小牛</p>
             </div>
           </div>
           <div class="card">
             <img src="./../assets/dog-黑輪-main.png" alt="" class="card-img" />
             <div class="card-text">
               <h3 class="card-title">黑輪</h3>
-              <p class="card-description">3 歲</p>
+              <p class="card-description">陽光棒棒糖男孩</p>
             </div>
           </div>
           <div class="card">
-            <img src="./../assets/dog-巧克力-main.png" alt="" class="card-img" />
+            <img src="./../assets/dog-D-main.png" alt="" class="card-img" />
+            <div class="card-text">
+              <h3 class="card-title">小Ｄ</h3>
+              <p class="card-description">公關王是我</p>
+            </div>
+          </div>
+          <div class="card">
+            <img
+              src="./../assets/dog-巧克力-main.png"
+              alt=""
+              class="card-img"
+            />
             <div class="card-text">
               <h3 class="card-title">巧克力</h3>
-              <p class="card-description">2 歲</p>
+              <p class="card-description">氣質爆表水水</p>
             </div>
           </div>
         </div>
@@ -122,7 +130,9 @@
         <div class="adoption-info">
           <h3 class="title">領養毛小孩</h3>
           <p class="description">用領養代替購買，帶毛小孩回家一起生活吧</p>
-          <a href="javascript:void(0)" class="action">領養去</a>
+          <router-link :to="{ name: 'dog-profile' }" class="action"
+            >領養去</router-link
+          >
         </div>
       </div>
     </div>

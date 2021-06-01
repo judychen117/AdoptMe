@@ -2,7 +2,7 @@
   <div>
     <header>
       <router-link class="navbar-brand" :to="{ name: 'main' }"
-        >毛小孩星球</router-link
+        >中和毛星球</router-link
       >
       <input type="checkbox" class="navbar-toggle" id="navbar-toggle" />
       <nav class="nav">

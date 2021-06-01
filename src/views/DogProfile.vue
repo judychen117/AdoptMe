@@ -237,7 +237,7 @@
             </div>
             <div class="card-content">
               <i class="fas fa-baby-carriage fa-4x"></i>
-              <p class="card-description">中年</p>
+              <p class="card-description">中老年</p>
             </div>
             <div class="card-content">
               <i class="fas fa-palette fa-4x"></i>
@@ -314,7 +314,7 @@
             </div>
             <div class="card-content">
               <i class="fas fa-baby-carriage fa-4x"></i>
-              <p class="card-description">中年</p>
+              <p class="card-description">中老年</p>
             </div>
             <div class="card-content">
               <i class="fas fa-palette fa-4x"></i>
@@ -331,45 +331,51 @@
           </div>
           <div class="border sm-pic-left card">
             <img
-              src="./../assets/dog-tiger3.png"
-              alt="sub-photo"
-              class="photo-sub card-img"
-            />
-            <div class="card-text">
-              <p class="card-description">
-                由於以前待過成犬社，每次只要經過成犬社她都想回去，是個迷戀舊家的忠心狗狗
-                ----志工 曉晴
-              </p>
-            </div>
-          </div>
-          <div class="border sm-pic-middle card">
-            <img
               src="./../assets/dog-tiger.png"
               alt="sub-photo"
               class="photo-sub card-img"
             />
             <div class="card-text">
               <p class="card-description">
-                屬於守舊派狗狗，堅持己見的新時代女性 ----志工 曉晴
+                虎哥chill哥！但在志工要走時她都會發出不捨的叫聲
+              </p>
+            </div>
+          </div>
+          <div class="border sm-pic-middle card">
+            <img
+              src="./../assets/dog-tiger4.png"
+              alt="sub-photo"
+              class="photo-sub card-img"
+            />
+            <div class="card-text">
+              <p class="card-description">
+                小零食不怎麼愛吃，但正餐倒是吃得津津有味
               </p>
             </div>
           </div>
           <div class="border sm-pic-right card">
             <img
-              src="./../assets/dog-tiger2.png"
+              src="./../assets/dog-tiger3.png"
               alt="sub-photo"
               class="photo-sub card-img"
             />
             <div class="card-text">
-              <p class="card-description">有時候害羞到有點三八 ----志工 曉晴</p>
+              <p class="card-description">外表像黑社會老大，但他其實很溫柔</p>
             </div>
           </div>
-          <div class="border big-pic">
-            <video
-              class="photo-main"
-              controls
-              src="./../assets/dog-Q-video.mp4"
-            ></video>
+          <div class="border big-pic card">
+            <div class="border big-pic">
+              <img
+                src="./../assets/dog-tiger2.png"
+                alt="sub-photo"
+                class="photo-main card-img"
+              />
+              <div class="card-text">
+                <p class="card-description">
+                  對其他狗來打招呼時很冷靜，在別人轉頭要走時就會偷聞人家屁股然後被兇
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -396,11 +402,11 @@
             </div>
             <div class="card-content">
               <i class="fas fa-home fa-4x"></i>
-              <p class="card-description">中型犬</p>
+              <p class="card-description">大型犬</p>
             </div>
             <div class="card-content">
               <i class="far fa-smile fa-4x"></i>
-              <p class="card-description">親人、愛撒嬌</p>
+              <p class="card-description">愛撒嬌</p>
             </div>
           </div>
           <div class="border sm-pic-left card">
@@ -411,7 +417,7 @@
             />
             <div class="card-text">
               <p class="card-description">
-                胖達聰明又膽小，矛盾的心理萌到讓大家不要不要的 ----志工 曉晴
+                定期找人討摸，也喜歡跟其他狗社交（但經常被兇:(
               </p>
             </div>
           </div>
@@ -423,29 +429,30 @@
             />
             <div class="card-text">
               <p class="card-description">
-                喜歡遠離人群、在動物之家免強交到的唯一朋友就是他室友 ----志工
-                曉晴
+                興奮時會開心的一直討摸、撲人、叫，各種情關注
               </p>
             </div>
           </div>
-          <div class="border sm-pic-right card">
-            <img
-              src="./../assets/dog-dodo3.jpeg"
-              alt="sub-photo"
-              class="photo-sub card-img"
-            />
-            <div class="card-text">
-              <p class="card-description">
-                經驗告訴我只要他喜歡你就會在你出現時一直亂叫、討摸 ----志工 曉晴
-              </p>
-            </div>
-          </div>
-          <div class="border big-pic">
+          <div class="border sm-pic-right">
             <video
-              class="photo-main"
+              class="photo-sub"
               controls
-              src="./../assets/dog-panda-video.mp4"
+              src="./../assets/dog-dodo-video.mp4"
             ></video>
+          </div>
+          <div class="border big-pic card">
+            <div class="border big-pic">
+              <img
+                src="./../assets/dog-dodo3.jpeg"
+                alt="sub-photo"
+                class="photo-main card-img"
+              />
+              <div class="card-text">
+                <p class="card-description">
+                  有多多在的地方，他絕對會讓你感受到滿滿的愛
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -464,7 +471,7 @@
             </div>
             <div class="card-content">
               <i class="fas fa-baby-carriage fa-4x"></i>
-              <p class="card-description">青少年</p>
+              <p class="card-description">中老年</p>
             </div>
             <div class="card-content">
               <i class="fas fa-palette fa-4x"></i>
@@ -486,9 +493,7 @@
               class="photo-sub card-img"
             />
             <div class="card-text">
-              <p class="card-description">
-                胖達聰明又膽小，矛盾的心理萌到讓大家不要不要的 ----志工 曉晴
-              </p>
+              <p class="card-description">開心時狂搖尾巴到整個屁股都在晃動</p>
             </div>
           </div>
           <div class="border sm-pic-middle card">
@@ -499,29 +504,28 @@
             />
             <div class="card-text">
               <p class="card-description">
-                喜歡遠離人群、在動物之家免強交到的唯一朋友就是他室友 ----志工
-                曉晴
+                喜歡向下挖洞找樂子，喜歡向上撲人討抱抱
               </p>
             </div>
           </div>
-          <div class="border sm-pic-right card">
-            <img
-              src="./../assets/dog-mountain3.png"
-              alt="sub-photo"
-              class="photo-sub card-img"
-            />
-            <div class="card-text">
-              <p class="card-description">
-                經驗告訴我只要他喜歡你就會在你出現時一直亂叫、討摸 ----志工 曉晴
-              </p>
-            </div>
-          </div>
-          <div class="border big-pic">
+          <div class="border sm-pic-right">
             <video
-              class="photo-main"
+              class="photo-sub"
               controls
-              src="./../assets/dog-panda-video.mp4"
+              src="./../assets/dog-mountain-video.mp4"
             ></video>
+          </div>
+          <div class="border big-pic card">
+            <div class="border big-pic">
+              <img
+                src="./../assets/dog-mountain3.png"
+                alt="sub-photo"
+                class="photo-main card-img"
+              />
+              <div class="card-text">
+                <p class="card-description">穩定的狗狗，偷偷鄙視暴衝型狗狗？</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -552,7 +556,7 @@
             </div>
             <div class="card-content">
               <i class="far fa-smile fa-4x"></i>
-              <p class="card-description">溫和、主動</p>
+              <p class="card-description">溫和</p>
             </div>
           </div>
           <div class="border sm-pic-left card">
@@ -562,10 +566,7 @@
               class="photo-sub card-img"
             />
             <div class="card-text">
-              <p class="card-description">
-                由於以前待過成犬社，每次只要經過成犬社她都想回去，是個迷戀舊家的忠心狗狗
-                ----志工 曉晴
-              </p>
+              <p class="card-description">喜歡去很遠很奇怪的地方冒險</p>
             </div>
           </div>
           <div class="border sm-pic-middle card">
@@ -575,9 +576,7 @@
               class="photo-sub card-img"
             />
             <div class="card-text">
-              <p class="card-description">
-                屬於守舊派狗狗，堅持己見的新時代女性 ----志工 曉晴
-              </p>
+              <p class="card-description">對人友善但不會主動接近陌生人</p>
             </div>
           </div>
           <div class="border sm-pic-right card">
@@ -587,14 +586,14 @@
               class="photo-sub card-img"
             />
             <div class="card-text">
-              <p class="card-description">有時候害羞到有點三八 ----志工 曉晴</p>
+              <p class="card-description">喜歡被被屁屁、被揉屁屁</p>
             </div>
           </div>
           <div class="border big-pic">
             <video
               class="photo-main"
               controls
-              src="./../assets/dog-Q-video.mp4"
+              src="./../assets/dog-coco-video.mp4"
             ></video>
           </div>
         </div>
