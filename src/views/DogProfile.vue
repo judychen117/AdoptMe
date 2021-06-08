@@ -31,7 +31,7 @@
             <img
               src="./../assets/dog-panda2.jpg"
               alt="sub-photo"
-              class="photo-sub card-img"
+              class="photo-sub"
             />
             <div class="card-text">
               <p class="card-description">
@@ -43,7 +43,7 @@
             <img
               src="./../assets/dog-panda4.jpg"
               alt="sub-photo"
-              class="photo-sub card-img"
+              class="photo-sub"
             />
             <div class="card-text">
               <p class="card-description">
@@ -63,7 +63,7 @@
               <img
                 src="./../assets/dog-panda3.jpg"
                 alt="sub-photo"
-                class="photo-main card-img"
+                class="photo-main"
               />
               <div class="card-text">
                 <p class="card-description">
@@ -603,6 +603,156 @@
       <br />
       <br />
       <br />
+      <div class="bk-color">
+        <p class="navbar-brand">熊熊</p>
+        <div class="dog-profile-wrapper">
+          <div class="border main-content">
+            <div class="card-content">
+              <i class="fas fa-venus-mars fa-4x"></i>
+              <p class="card-description">男孩</p>
+            </div>
+            <div class="card-content">
+              <i class="fas fa-baby-carriage fa-4x"></i>
+              <p class="card-description">中年</p>
+            </div>
+            <div class="card-content">
+              <i class="fas fa-palette fa-4x"></i>
+              <p class="card-description">全黑</p>
+            </div>
+            <div class="card-content">
+              <i class="fas fa-home fa-4x"></i>
+              <p class="card-description">中型犬</p>
+            </div>
+            <div class="card-content">
+              <i class="far fa-smile fa-4x"></i>
+              <p class="card-description">親人</p>
+            </div>
+          </div>
+          <div class="border sm-pic-left card">
+            <img
+              src="./../assets/dog-bear2.png"
+              alt="sub-photo"
+              class="photo-sub card-img"
+            />
+            <div class="card-text">
+              <p class="card-description">簡單說就是一條黑色毛毛香腸！</p>
+            </div>
+          </div>
+          <div class="border sm-pic-middle card">
+            <img
+              src="./../assets/dog-bear1.png"
+              alt="sub-photo"
+              class="photo-sub card-img"
+            />
+            <div class="card-text">
+              <p class="card-description">
+                要注意因為太胖了所以散步的時候要等等他一下但會看到他喘的不得了的笑著向你跑過來
+              </p>
+            </div>
+          </div>
+          <div class="border sm-pic-right">
+            <video
+              class="photo-sub"
+              controls
+              src="./../assets/dog-bear-video.mp4"
+            ></video>
+          </div>
+          <div class="border big-pic card">
+            <div class="border big-pic">
+              <img
+                src="./../assets/dog-bear-main.png"
+                alt="sub-photo"
+                class="photo-main card-img"
+              />
+              <div class="card-text">
+                <p class="card-description">
+                  非常的貪吃而且喜歡討摸摸，被摸摸後會使出牙通牙開始旋轉（但是太胖翻不動就變成在地上露肚肚）
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <div class="bk-color">
+        <p class="navbar-brand">紅茶</p>
+        <div class="dog-profile-wrapper2">
+          <div class="border main-content">
+            <div class="card-content">
+              <i class="fas fa-venus-mars fa-4x"></i>
+              <p class="card-description">男孩</p>
+            </div>
+            <div class="card-content">
+              <i class="fas fa-baby-carriage fa-4x"></i>
+              <p class="card-description">青少年</p>
+            </div>
+            <div class="card-content">
+              <i class="fas fa-palette fa-4x"></i>
+              <p class="card-description">全黑</p>
+            </div>
+            <div class="card-content">
+              <i class="fas fa-home fa-4x"></i>
+              <p class="card-description">中型犬</p>
+            </div>
+            <div class="card-content">
+              <i class="far fa-smile fa-4x"></i>
+              <p class="card-description">慢熟</p>
+            </div>
+          </div>
+          <div class="border sm-pic-left card">
+            <img
+              src="./../assets/dog-tea-main.jpg"
+              alt="sub-photo"
+              class="photo-sub card-img"
+            />
+            <div class="card-text">
+              <p class="card-description">
+                只要跟他認識一段時間他就會變的離不開你想要跟你一直撒嬌！
+              </p>
+            </div>
+          </div>
+          <div class="border sm-pic-middle card">
+            <img
+              src="./../assets/dog-tea1.png"
+              alt="sub-photo"
+              class="photo-sub card-img"
+            />
+            <div class="card-text">
+              <p class="card-description">
+                他非常乖非常聰明只要跟他講一聲教他一下就能馬上學會
+              </p>
+            </div>
+          </div>
+          <div class="border sm-pic-right card">
+            <img
+              src="./../assets/dog-tea2.jpg"
+              alt="sub-photo"
+              class="photo-sub card-img"
+            />
+            <div class="card-text">
+              <p class="card-description">
+                散步的時候會一直陪伴在你身邊不亂跑，很適合陪伴家人的一個溫暖的孩子
+              </p>
+            </div>
+          </div>
+          <div class="border big-pic">
+            <video
+              class="photo-main"
+              controls
+              src="./../assets/dog-tea-video.mp4"
+            ></video>
+          </div>
+        </div>
+      </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
     </div>
     <footer>
       <p>中和毛星球 &copy; 2021</p>
@@ -708,7 +858,7 @@ export default {
   .dog-profile-wrapper {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 110px 220px;
+    grid-template-rows: 110px 180px;
     grid-gap: 1rem;
     grid-template-areas:
       "main main main"
@@ -717,7 +867,7 @@ export default {
   .dog-profile-wrapper2 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 110px 220px;
+    grid-template-rows: 110px 180px;
     grid-gap: 1rem;
     grid-template-areas:
       "main main main"
@@ -726,11 +876,17 @@ export default {
   .big-pic {
     display: none;
   }
+  .card-content {
+    padding-right: 8px;
+  }
   .card-description {
     font-size: 10px;
   }
   i {
     font-size: 2rem;
+  }
+  .photo-sub {
+    height: 180px;
   }
 }
 </style>

@@ -18,7 +18,7 @@
           </div>
           <div class="sub-banner sub-banner-right background-image">
             <h3 class="banner-title">捐款送物資</h3>
-            <p class="banner-description">一起關愛夠狗</p>
+            <p class="banner-description">關愛夠狗</p>
             <router-link :to="{ name: 'activity' }" class="action"
               >捐贈</router-link
             >
@@ -93,10 +93,10 @@
             </div>
           </div>
           <div class="card">
-            <img src="./../assets/dog-黑輪-main.png" alt="" class="card-img" />
+            <img src="./../assets/dog-bear-main.png" alt="" class="card-img" />
             <div class="card-text">
-              <h3 class="card-title">黑輪</h3>
-              <p class="card-description">陽光棒棒糖男孩</p>
+              <h3 class="card-title">熊熊</h3>
+              <p class="card-description">陪你一起減肥的胖胖</p>
             </div>
           </div>
           <div class="card">
@@ -107,14 +107,10 @@
             </div>
           </div>
           <div class="card">
-            <img
-              src="./../assets/dog-巧克力-main.png"
-              alt=""
-              class="card-img"
-            />
+            <img src="./../assets/dog-tea-main.jpg" alt="" class="card-img" />
             <div class="card-text">
-              <h3 class="card-title">巧克力</h3>
-              <p class="card-description">氣質爆表水水</p>
+              <h3 class="card-title">紅茶</h3>
+              <p class="card-description">小帥哥</p>
             </div>
           </div>
         </div>
